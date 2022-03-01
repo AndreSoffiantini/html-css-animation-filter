@@ -78,6 +78,15 @@
     filter: sepia() hue-rotate(90deg);
 }
 
+.ex-8-img {
+    transition: 3s;
+}
+
+.ex-8-img:hover {
+    filter: sepia() hue-rotate(90deg);
+    border-radius: 20%;
+}
+
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
